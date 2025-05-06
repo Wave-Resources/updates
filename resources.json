@@ -1,1 +1,7 @@
 
+{
+    "utils": {
+      "version": 1.01,
+      "auto_update": true
+    }
+}
